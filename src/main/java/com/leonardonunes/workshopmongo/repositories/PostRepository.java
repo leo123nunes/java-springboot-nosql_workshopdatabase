@@ -3,10 +3,10 @@ package com.leonardonunes.workshopmongo.repositories;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
-import com.leonardonunes.workshopmongo.entities.User;
+import com.leonardonunes.workshopmongo.entities.Post;
 
 @Repository
-public interface UserRepository extends MongoRepository<User,String>{
+public interface PostRepository extends MongoRepository<Post,String>{
 
 }
 
