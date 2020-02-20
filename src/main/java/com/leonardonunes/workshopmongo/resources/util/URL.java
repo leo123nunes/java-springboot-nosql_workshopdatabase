@@ -8,7 +8,7 @@ public class URL {
 		try {
 			return URLDecoder.decode(text, "UTF-8");
 		} catch (UnsupportedEncodingException e) {
-			return "";
+			return "Post not found.";
 		}
 	}
 }
