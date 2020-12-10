@@ -1,15 +1,15 @@
 # Java-SpringBoot_NoSQL_WorkshopDatabase
-Banco de dados que funciona para adicionar, deletar e encontrar posts e usuários de uma rede. Foi feito em Java com Spring Boot, e utilizando banco de dados NoSQL, com o Postman e MongoDB.
+Database that works to add, delete and find posts and users on a network. It was done in Java with Spring Boot, and using NoSQL database, with Postman and MongoDB.
 
-# Linguagem de programação e banco de dados
+# Programming language and database
 Java e NoSQL.
 
 # IDE
 Spring Tool Suite 4. Version: 4.5.1.RELEASE.
 
-# Bibliotecas
-Java SE versão 11 e Maven Dependencies.
+# Libraries
+Java SE versão 11 and Maven Dependencies.
 
-# Frameworks/banco de dados
-Postman e MongoDB Compass versão 1.20.5.
+# Frameworks/database
+Postman and MongoDB Compass version 1.20.5.
 
